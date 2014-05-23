@@ -1,5 +1,6 @@
 abstract.tex
 Another Block of Text.tex
+new block.tex
 introduction.tex
 materials_and_methods.tex
 results.tex
